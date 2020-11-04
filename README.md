@@ -2,5 +2,5 @@
 
 ## Debug
 
-Acesse uma demonstração deste projeto aqui: [Codepen](https://cdpn.io/euelinton/debug/KKMeRdK/NjkYzWmegjmM)
+Acesse uma demonstração deste projeto aqui: [Codepen](https://codepen.io/euelinton/full/KKMeRdK)
 
